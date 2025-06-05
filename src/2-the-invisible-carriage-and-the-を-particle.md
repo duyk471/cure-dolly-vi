@@ -1,81 +1,118 @@
-# **2. The Invisible Carriage and the を Particle**
+# 2. Toa tàu vô hình và trợ từ を
 
-## The Invisible Carriage
+## Toa tàu vô hình
 
-In the last lesson, we learned that every Japanese sentence has the same core: the main carriage and the engine, also known as A and B, also known as the thing we are talking about and the thing we are saying about it. And I told you that we can have a lot more carriages as sentences become more complex, but they still always have the same core.
+Ở bài trước, bạn đã biết rằng mọi câu tiếng Nhật đều xoay quanh một cấu trúc cốt lõi giống nhau: một cái "toa chính" và một cái "đầu máy". Nói cách khác, đó là phần **nội dung chính** ta muốn nói đến, và phần **nhận định** ta nói về nó – hay còn gọi là phần A và phần B.
 
-Now we are going to look at some of those extra carriages. Previously, I stated that while every sentence has the same two core elements, you can't always see both of them. You can always see the engine, but sometimes you can't see the main carriage. Why not? **When you can't see the main carriage, it's been replaced by the invisible carriage.**
+Câu càng dài thì có thể càng nhiều "toa phụ", nhưng lõi của nó thì không thay đổi.
 
-So, what is the invisible carriage? In English, the closest equivalent is <code>it</code>.
+Giờ, ta sẽ nói về một loại "toa phụ" đặc biệt. Trước đây tôi đã nói rằng trong câu tiếng Nhật, đôi khi bạn **không nhìn thấy đầy đủ cả hai phần A và B** – thường thì bạn sẽ thấy phần B (đầu máy), nhưng **phần A (toa chính) có thể bị ẩn đi**, và thay vào đó là một **toa tàu vô hình**.
+
+Vậy **toa tàu vô hình** là gì? Gần nhất trong tiếng Anh, nó giống như từ **"it"**.
 
 ![](media/image75.webp)
 
-Let's begin by seeing what <code>it</code> does in English. Let's look at this example:
+Hãy xem "it" trong tiếng Anh hoạt động thế nào:
 
-> The ball rolled down the hill.
->
-> When the ball got to the bottom, the ball hit a sharp stone.
->
-> The ball was punctured and all the air came out of the ball.
+> Quả bóng lăn xuống dốc.
+> Khi quả bóng tới đáy, quả bóng đập phải một hòn đá nhọn.
+> Quả bóng bị thủng và không khí bên trong tràn ra.
 
-Now, would anybody ever say this? Of course they wouldn't, because once we have established what we are talking about, we replace it with <code>it</code>. Instead we say,
+Không ai nói vậy cả. Thay vào đó, người ta sẽ nói:
 
-> The ball rolled down the hill.
->
-> When it got to the bottom, it hit a sharp stone.
->
-> It was punctured and all the air came out of it.
+> Quả bóng lăn xuống dốc.
+> Khi **nó** tới đáy, **nó** đập phải một hòn đá nhọn.
+> **Nó** bị thủng và không khí bên trong tràn ra.
 
-<code>It</code> means nothing because it can mean absolutely anything. If I say <code>it</code>, I may be talking about a flower or about the sky. I may be talking about a tree, or my finger, or the Eiffel Tower or the Andromeda galaxy. <code>It</code> in itself doesn't mean anything: **you know what <code>it</code> is from context.**
+"It" không có nghĩa cố định – nó chỉ có nghĩa nhờ vào **ngữ cảnh**. Nó có thể là bông hoa, bầu trời, ngón tay, tháp Eiffel, hay cả thiên hà Andromeda.
 
-Now, let's suppose a small child tries to say this and says,
+Giờ thử tưởng tượng một đứa trẻ nói:
 
-> Ball rolled down hill,
->
-> got to bottom, hit sharp stone,
->
-> got punctured, all the air came out.
+> Bóng lăn xuống dốc,
+> tới đáy, đập đá nhọn,
+> bị thủng, xì hết hơi.
 
-Now, is that difficult to understand? No, it isn't difficult at all, is it? Because in fact we don't need to use <code>it</code> every time, over and over again, to understand what's being said. While English grammar demands we do, but there's no actual communicative need to include <code>it</code> everytime.
+Có khó hiểu không? Không hề. Vì thực ra ta chẳng cần "it" để hiểu câu. Tiếng Anh yêu cầu về mặt ngữ pháp, nhưng về mặt giao tiếp, rõ ràng là không cần thiết.
 
-Japanese doesn't have <code>it</code>. *(I guess what is meant is in the substituting sense as above)*
+Và tiếng Nhật **không có "it"** – ít nhất là không theo cách tiếng Anh dùng nó để thay thế.
 
-So, if a small child, or even an adult, comes down to the kitchen at night and someone sees her, she might say, <code>Got really hungry. Came for something to eat.</code> Again, there's nothing confusing or difficult about this. She means, <code>I got really hungry. I came down for something to eat.</code>
+Giống như nếu một bé gái nửa đêm xuống bếp và nói:
 
-**In English this isn't a proper sentence, but in Japanese it is. All those little pronouns, like <code>it</code>, <code>she</code>, <code>he</code>, <code>I</code>, <code>they</code>, in Japanese can be replaced by the invisible carriage, the zero pronoun. But the important thing to remember is that they are still there.**
+> Đói quá. Xuống kiếm gì ăn.
 
-So let's look at this at work in Japanese. I might say, <code>ドリーだ</code>, and that means <code>I am Dolly</code>. Initially this looks as if it only has an engine and no main carriage, but actually the main carriage is simply the invisible carriage. The full sentence is really, <code>(**zeroが**)ドリーだ</code>.
+Không có "I", nhưng ai cũng hiểu là: "Tôi đói. Tôi xuống kiếm gì ăn."
+
+Trong tiếng Anh, đây là câu sai ngữ pháp. Nhưng trong tiếng Nhật, nó hoàn toàn hợp lệ. Tất cả những đại từ như **"I", "he", "she", "it", "they"** đều có thể được **ẩn đi** – được thay bằng **toa tàu vô hình**, hay gọi là **zero pronoun**.
+
+Điều quan trọng là: **chúng vẫn tồn tại về mặt ngữ pháp, chỉ là không nói ra thôi.**
+
+Giờ, ví dụ trong tiếng Nhật: tôi nói 「ドリーだ」 nghĩa là "Tôi là Dolly".
+
+Nghe thì như chỉ có "đầu máy" (だ) mà không có "toa chính". Nhưng thật ra **toa chính đang bị ẩn đi** – câu đầy đủ là 「（**zeroが**）ドリーだ」.
+
+Toa vô hình (zero) ở đây mặc định là "tôi", trừ khi ngữ cảnh nói về ai khác.
 
 ![](media/image975.webp)
 
-We can say that <code>I</code> is the default value of the zero pronoun, the invisible carriage. However, the context can define it as anything. For example, if we hear a rustling in the woods and look over in the direction of it, and I say, <code>ウサギだ!</code>, that means <code>(**zeroが**)ウサギだ!</code> <code>It is a rabbit!</code> It, that thing we just looked toward, rustling in the trees, that's a rabbit.
+
+Ví dụ khác: nghe tiếng sột soạt trong bụi, nhìn về phía đó và nói:
+
+> 「ウサギだ！」
+
+Tức là: 「（**zeroが**）ウサギだ！」– "Là thỏ kìa!"
+"Zero" ở đây là **cái gì đó chúng ta vừa nhìn thấy** – và nó chính là con thỏ.
 
 ![](media/image617.webp)
 
-If I say, <code>土曜日だ</code> (土曜日/どようび means Saturday), I'm saying <code>(It) is Saturday</code>. What's <code>it</code>? Today is. All these sentences are full, complete Japanese sentences, with a が-marked subject/ A carriage/main carriage, and an engine.
+Hoặc khi bạn nói:
+
+> 「土曜日だ。」
+
+(土曜日 = thứ Bảy)
+Tức là: "Hôm nay là thứ Bảy."
+"It" ở đây là "hôm nay" – và nó bị ẩn, nhưng vẫn tồn tại: 「（zeroが）土曜日だ。」
 
 ![](media/image490.webp)
 
-## The を particle
+## Trợ từ を
 
-I'm going to introduce you to one more kind of carriage and that is an を car. This means a noun marked by the particle を, pronounced <code>o</code>. And if you know the English grammatical term <code>object</code>, which means the thing we're doing something to, it's a good mnemonic to remember that <code>o</code> stands for <code>object</code>.
+Giờ, ta đến một loại "toa" nữa: **toa を** – tức là danh từ đi với trợ từ 「を」 (đọc là *o*).
 
-So the を car looks like this, and as you see, it's white. It's white because it's not part of the core train. **The core train always consists of just two elements, the engine and the main carriage.** When we see white cars, we know that they're telling us something more about the engine or about the main carriage.
+Nếu bạn biết một chút về ngữ pháp tiếng Anh, "object" nghĩa là **đối tượng bị tác động** – thì hãy nhớ: "o" là viết tắt của "object" nhé!
+
+Trong cấu trúc tàu, toa を thường có màu **trắng**, vì nó **không phải là lõi chính** của câu.
+Tàu chính chỉ có **toa đen** – tức là toa chính (A/ga) và đầu máy (B).
+Các toa trắng là phần mở rộng – giúp nói thêm về A hoặc B.
 
 ![](media/image77.webp)
 
-So let's take a sentence here: <code>わたしがケーキを食べる</code>. This means <code>I eat cake</code>.
+Ví dụ:
+
+> 「わたしがケーキを食べる」
+> "Tôi ăn bánh"
 
 ![](media/image146.webp)
 
-Now, the core sentence here is <code>I eat</code>. Those are the two black carriages. The white carriage, <code>ケーキを</code>, is telling us more about the engine. The core sentence is <code>I eat</code> and <code>ケーキを</code> is telling us what it is that I eat.
+Lõi chính ở đây là: **Tôi ăn** (わたしが食べる) – đó là hai toa đen. Còn **ケーキを** là toa trắng – nói thêm **tôi ăn cái gì**.
 
-Now, the interesting thing here is that we may often see this said like this: <code>ケーキをたべる</code>. And you already know what's going on when this happens. This is another case where we have the invisible A car.
+Nhưng đôi khi bạn sẽ thấy câu rút gọn:
+
+> 「ケーキを食べる」
+
+Không có "tôi" ở đâu cả. Nhưng bạn đã biết điều gì đang xảy ra rồi đấy: **toa A (わたしが) đang bị ẩn đi**, và được thay bằng **toa vô hình**.
 
 ![](media/image280.webp)
 
-**We can't have a sentence without a が. We can't have an action being done without a doer.** If we say <code>ケーキをたべる</code>, what we're really saying is <code>(zeroが)ケーキをたべる</code>. And the default value for <code>zero</code>, for the invisible carriage, is <code>わたし</code>. So usually this is going to be <code>I eat cake</code>, although if you were talking about someone else at the time, it might mean that that person eats cake.
+**Không thể có hành động mà không có người làm hành động.** Dù không nói ra, thì câu này vẫn ngầm hiểu là:
 
-::: info
-Just in case - as can be seen from from the pictures, every particle attaches to/assigns itself to the word BEFORE it, Not after it.
-:::
+> 「（zeroが）ケーキを食べる」– "Tôi ăn bánh."
+
+Vì trong giao tiếp bình thường, khi chủ thể không rõ ràng thì mặc định là "tôi".
+
+Tuy nhiên, nếu trước đó đang nói về người khác, thì "zero" sẽ được hiểu là người đó – tuỳ vào **ngữ cảnh**.
+
+
+<details>
+<summary>Lưu ý</summary>	
+Như hình minh hoạ, **trợ từ tiếng Nhật luôn gắn với từ đứng TRƯỚC nó**, không phải từ sau.
+</details>

@@ -3,7 +3,7 @@
 - [Intro](about.md)
 - [From original Docs](original.md)
 - [Các kiểu câu cơ bản trong tiếng Nhật](1-the-basic-types-of-sentences.md)
-- [2. The Invisible Carriage And The を Particle](2-the-invisible-carriage-and-the-を-particle.md)
+- [Toa tàu vô hình và trợ từ を](2-the-invisible-carriage-and-the-を-particle.md)
 - [3. The は Particle](3-the-は-particle.md)
 - [4. Japanese Verb Tenses](4-japanese-verb-tenses.md)
 - [5. Verb Groups And The て Form](5-verb-groups-and-the-て-form.md)
